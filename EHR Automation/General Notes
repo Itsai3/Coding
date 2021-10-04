@@ -1,1 +1,0 @@
-Right the functions that call excel spreadsheets pull the data each time it runs through a function. There has to be a way to make the variables more permanent and not have to write it so much.
